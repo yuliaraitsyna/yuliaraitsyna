@@ -5,7 +5,7 @@ BSU student with applied knowledge of programming and mathematics. Future fronte
 I'm currently working at this course completing my biggest projects:
   - [Tik Tak Toe](https://github.com/yuliaraitsyna/tic_tac_toe)
   - [Sign Up Form CSS](https://github.com/yuliaraitsyna/sign_up_form)
-  - [To-Do List](https://github.com/yuliaraitsyna/to_do_list)
+  - [To-Do List](https://github.com/yuliaraitsyna/MyTODO)
   - [Restraunt Page](https://github.com/yuliaraitsyna/restraunt-page)
 
 ## ⚡Skills
