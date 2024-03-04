@@ -1,12 +1,11 @@
 ## 👩‍💻About me 
 BSU student with applied knowledge of programming and mathematics. Future frontend developer.
 
-## 🌱The Odin Project
-I'm currently working at this course completing my biggest projects:
+## 🌱Experience
+Some of my projects:
   - [Tik Tak Toe](https://github.com/yuliaraitsyna/tic_tac_toe)
   - [Sign Up Form CSS](https://github.com/yuliaraitsyna/sign_up_form)
-  - [To-Do List](https://github.com/yuliaraitsyna/MyTODO)
-  - [Restraunt Page](https://github.com/yuliaraitsyna/restraunt-page)
+  - [CV Creator on React.js](https://github.com/yuliaraitsyna/cv_app_react)
 
 ## ⚡Skills
   <p align="left">
