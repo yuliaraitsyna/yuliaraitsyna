@@ -3,7 +3,7 @@ BSU student with applied knowledge of programming and mathematics. Future fronte
 
 ## 🌱Experience
 Some of my projects:
-  - [Tik Tak Toe](https://github.com/yuliaraitsyna/tic_tac_toe)
+  - [Tic Tac Toe](https://github.com/yuliaraitsyna/tic_tac_toe)
   - [Sign Up Form CSS](https://github.com/yuliaraitsyna/sign_up_form)
   - [CV Creator on React.js](https://github.com/yuliaraitsyna/cv_app_react)
 
