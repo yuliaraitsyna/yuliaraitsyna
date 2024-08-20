@@ -20,6 +20,3 @@ Frontend developer with applied skills in computer science and mathematics. Skil
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
   </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliaraitsyna)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliaraitsyna)](https://github.com/anuraghazra/github-readme-stats)
