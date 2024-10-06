@@ -23,3 +23,5 @@ Frontend developer with applied skills in computer science and mathematics. Skil
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
   </p>
 
+## Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliaraitsyna&layout=compact)
