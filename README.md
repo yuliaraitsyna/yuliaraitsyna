@@ -10,18 +10,20 @@
 ✦ Skills ✦
 
   ✦ HTML
-  ✦ CSS
+  ✦ CSS / SCSS
   ✦ JavaScript
   ✦ TypeScript
   ✦ React
+  ✦ Qwik
+  ✦ Next.js
   ✦ Python
 
 ✦ Tools I use ✦
 
-  ✦ Testing: Jest, React Testing Library, Vitest
-  ✦ Frameworks and Libraries: Next.js, Vite, Remix, Redux, Chart.js, MUI
+  ✦ Testing: Jest, React Testing Library, Vitest, Cypress, Storybook integration testing
+  ✦ Frameworks and Libraries: Storybook, Vite, Webpack, Remix, Redux, Redux Toolkit, RTK Query
   ✦ APIs: FastAPI
-  ✦ Others: Figma
+  ✦ Others: Figma, SQL
   
 ```
 
